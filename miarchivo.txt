@@ -3,4 +3,8 @@ Este es un archivo creado localmente. Hasta que no hagamos git push no estará e
 Ahora he modificado este archivo desde el editor web del mismo Github. Hasta que no haga
 pull en mi PC, los cambios no se actualizarán en el repo local.
 
+<<<<<<< HEAD
 Vuelvo a modificar desde local.
+=======
+Vuelvo a modificar otra vez desde GH.
+>>>>>>> e7ad1be9967a98daf1535dc55b8b55ee8e257b38
