@@ -1,1 +1,4 @@
 Este es un archivo creado localmente. Hasta que no hagamos git push no estará en el remoto.
+
+Ahora he modificado este archivo desde el editor web del mismo Github. Hasta que no haga
+pull en mi PC, los cambios no se actualizarán en el repo local.
